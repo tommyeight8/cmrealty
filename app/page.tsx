@@ -170,7 +170,7 @@ const SEED_PROPERTIES = [
 const TESTIMONIALS = [
   {
     name: "Sarah & James Mitchell",
-    text: "Crestview made our dream home a reality. Their market expertise in Beverly Hills is unmatched.",
+    text: "CMREALTY made our dream home a reality. Their market expertise in Beverly Hills is unmatched.",
     location: "Beverly Hills, CA",
   },
   {
@@ -2135,7 +2135,7 @@ export default function CrestviewRealty() {
           <div className="section-label">Client Stories</div>
           <h2 className="section-title">Trusted by Homeowners</h2>
           <p className="section-desc">
-            Hear from families who found their perfect home with Crestview.
+            Hear from families who found their perfect home with CMREALTY.
           </p>
         </div>
         <div className="testimonials-grid">
@@ -2252,7 +2252,7 @@ export default function CrestviewRealty() {
                 </div>
                 <h3>Thank You!</h3>
                 <p>
-                  We've received your inquiry and a Crestview agent will be in
+                  We've received your inquiry and a CMREALTY agent will be in
                   touch shortly. We typically respond within 2 hours.
                 </p>
                 <div className="success-detail">
@@ -2405,7 +2405,7 @@ export default function CrestviewRealty() {
           <div className="footer-brand">
             <a href="#" className="nav-logo" style={{ marginBottom: 0 }}>
               <div className="nav-logo-icon">C</div>
-              <span className="nav-logo-text">Crestview</span>
+              <span className="nav-logo-text">CMREALTY</span>
             </a>
             <p>
               Premium real estate services across Southern California. Your
@@ -2435,7 +2435,7 @@ export default function CrestviewRealty() {
           </div>
         </div>
         <div className="footer-bottom">
-          <span>&copy; 2026 Crestview Realty. All rights reserved.</span>
+          <span>&copy; 2026 CMREALTY. All rights reserved.</span>
           <div className="footer-bottom-links">
             <a href="#">Privacy</a>
             <a href="#">Terms</a>
